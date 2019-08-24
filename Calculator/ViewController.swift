@@ -79,7 +79,6 @@ class ViewController: UIViewController {
         }
     }
     
-    
     @IBAction func clearButtonPressed(_ sender: UIButton) {
         firstOperand = 0
         secondOperand = 0
